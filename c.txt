@@ -1,1 +1,4 @@
 Creating a file C.txt in B1 branch 
+
+
+Making a changes in master branch
